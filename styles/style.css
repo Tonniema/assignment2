@@ -294,7 +294,7 @@ nav li a {
 
 
 }
-
+/* amimation for icons */
 @keyframes color {
     0% {
         background-color: #FFFFFF;
@@ -339,7 +339,7 @@ nav li a {
     padding-bottom: 90px;
 }
 
-
+/* .form-container styles */
 .form-container {
     color: #fff;
     display: flex;
@@ -447,7 +447,7 @@ form .button input {
 form .button input:hover {
     background: linear-gradient(-135deg, #B621FE, #1FD1F9);
 }
-
+/* footer styles */
 .copyright {
     background-color: #FFF4E7;
     text-align: center;
@@ -455,6 +455,7 @@ form .button input:hover {
     padding: 30px 0;
 }
 
+ /* media query section */
 @media screen and (max-width:576px) {
 
     .nav-container,
